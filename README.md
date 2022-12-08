@@ -13,7 +13,7 @@ Turn it once and it becomes the "opposite" of itself (When you consider colors o
 
 The Mathematical machinery is detailed in an ARXIV article "The spinorial ball : a device to visualize 1/2-spin rotations"
 
-##details
+## Details
 
 It is made of !
 - a 3D printed frame divided in two halves of a truncated icoshedron
