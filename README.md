@@ -43,6 +43,10 @@ Its is connected to the LED strip via and additional FeatherWing  proto board in
 
 ## Printable frame
 
+It is a truncated icosahedron (More commonly called footbal) assembled like a 3D puzzle From 32 pieces : 
+- 20 Hexagons
+- 12 Pentagons
+
 From https://www.thingiverse.com/thing:2998199
 
 A hole is digged inside each of the 32 pieces to allow for LED placement.
