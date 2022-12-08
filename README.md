@@ -15,10 +15,10 @@ The Mathematical machinery is detailed in an ARXIV article "The spinorial ball :
 
 ## Details
 
-It is made of !
+It is made of :
 - a 3D printed frame divided in two halves of a truncated icoshedron
-- 32 WS2812E LEDs adressable LEDs
-- Adafruit Feather 32u4 basic proto controller,
+- 32  LEDs adressable LEDs (WS2812E)
+- Adafruit Feather 32u4 basic proto controller (And an additionnal featherwing Proto board receiving the LED stirp connector)
 - Adafruit Bosch BNO055 9 DOF inertial measurment unit
 - a 3.7 V 1,1 Wh liPo Battery
 
