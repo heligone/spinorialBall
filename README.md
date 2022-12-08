@@ -21,13 +21,11 @@ It contains
 - 32 WS2812E LEDs adressable LEDs
 - a 3.7 V 1,1 Wh liPo Battery
 
-![openBall (Small)](https://user-images.githubusercontent.com/16895004/206501316-1a81fdc9-b1c8-4d71-a87c-10f33dc51906.jpg)
+![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206501652-515705c6-1041-4b65-b313-22bbdc2174db.jpg)
 
 ![electronics (Small)](https://user-images.githubusercontent.com/16895004/206500958-54256676-5213-4c7d-95d4-0b9523ed3029.jpg)
 
-![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206501652-515705c6-1041-4b65-b313-22bbdc2174db.jpg)
-
 ![electronics assemble (Small)](https://user-images.githubusercontent.com/16895004/206501183-6b9b6acb-acc8-479c-9594-865a29321ba6.jpg)
 
-
+![openBall (Small)](https://user-images.githubusercontent.com/16895004/206501316-1a81fdc9-b1c8-4d71-a87c-10f33dc51906.jpg)
 
