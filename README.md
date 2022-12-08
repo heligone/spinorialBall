@@ -23,3 +23,6 @@ It contains
 
 
 ![electronics (Small)](https://user-images.githubusercontent.com/16895004/206500958-54256676-5213-4c7d-95d4-0b9523ed3029.jpg)
+
+![electronics assemble (Small)](https://user-images.githubusercontent.com/16895004/206501183-6b9b6acb-acc8-479c-9594-865a29321ba6.jpg)
+![openBall (Small)](https://user-images.githubusercontent.com/16895004/206501316-1a81fdc9-b1c8-4d71-a87c-10f33dc51906.jpg)
