@@ -15,10 +15,11 @@ The Mathematical machinery are detailed in this ARXIV article.
 
 ##details
 
-It contains
+It is made of !
+- a 3D printed frame divided in two halves of a truncated icoshedron
+- 32 WS2812E LEDs adressable LEDs
 - Adafruit Feather 32u4 basic proto controller,
 - Adafruit Bosch BNO055 9 DOF inertial measurment unit
-- 32 WS2812E LEDs adressable LEDs
 - a 3.7 V 1,1 Wh liPo Battery
 
 ![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206501652-515705c6-1041-4b65-b313-22bbdc2174db.jpg)
