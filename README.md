@@ -22,3 +22,4 @@ It contains
 - a 3.7 V 1,1 Wh liPo Battery
 
 
+![electronics (Small)](https://user-images.githubusercontent.com/16895004/206500958-54256676-5213-4c7d-95d4-0b9523ed3029.jpg)
