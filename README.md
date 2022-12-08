@@ -43,8 +43,17 @@ Its is connected to the LED strip via and additional FeatherWing  proto board in
 
 ## Printable frame
 
+From https://www.thingiverse.com/thing:2998199
+
+A hole is digged inside each of the 32 pieces to allow for LED placement.
+
 ![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206514382-efd9a7dd-20b6-4837-b7e5-bccffe0437c5.jpg)
 
 
 ## License
+
+
+The Arduino code was written by Samuel BERNARDET and is licensed under GNU GPL.
+
+Soccer ball (Truncated icosahedron) assembly by Mattias_Selin is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
 
