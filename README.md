@@ -8,10 +8,10 @@ A device to visualize spin 1/2 rotations
 
 The spinorial ball is LED gyro-Ball powered by an internal battery, whose faces change colors when it is rotated.
 
-You need to turn it twice 360 around any axis so that the configuration gets back to itself.
-Turn it once and it becomes the opposite of itself
+You need to turn it twice 360°, so 720°, around any axis so that the configuration gets back to itself.
+Turn it once and it becomes the "opposite" of itself (When you consider colors on chromatic wheel) !
 
-The Mathematical machinery are detailed in this ARXIV article.
+The Mathematical machinery is detailed in an ARXIV article "The spinorial ball : a device to visualize 1/2-spin rotations"
 
 ##details
 
@@ -22,11 +22,29 @@ It is made of !
 - Adafruit Bosch BNO055 9 DOF inertial measurment unit
 - a 3.7 V 1,1 Wh liPo Battery
 
-![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206501652-515705c6-1041-4b65-b313-22bbdc2174db.jpg)
-
-![electronics (Small)](https://user-images.githubusercontent.com/16895004/206500958-54256676-5213-4c7d-95d4-0b9523ed3029.jpg)
-
-![electronics assemble (Small)](https://user-images.githubusercontent.com/16895004/206501183-6b9b6acb-acc8-479c-9594-865a29321ba6.jpg)
-
 ![openBall (Small)](https://user-images.githubusercontent.com/16895004/206501316-1a81fdc9-b1c8-4d71-a87c-10f33dc51906.jpg)
+
+## Electronics
+
+The controller board is connected to the gyroscope via its 4 pins : 
+- Power
+- Ground
+- SCA pin 3
+- SCL pin 2
+
+Its is connected to the LED strip via and additional FeatherWing  proto board interface card which holds only a connector for the led strip
+- Power
+- Ground
+- Data pin 12
+
+![electronics (Small)](https://user-images.githubusercontent.com/16895004/206514295-dd579211-e71b-4bf9-922e-89a014369af1.jpg)
+
+![electronics assemble (Small)](https://user-images.githubusercontent.com/16895004/206514355-350c4eee-dbb4-4966-b806-77fcb258ef06.jpg)
+
+## Printable frame
+
+![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206514382-efd9a7dd-20b6-4837-b7e5-bccffe0437c5.jpg)
+
+
+## License
 
