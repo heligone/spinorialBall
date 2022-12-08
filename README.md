@@ -53,7 +53,7 @@ A hole is digged inside each of the 32 pieces to allow for LED placement.
 ## License
 
 
-The Arduino code was written by Samuel BERNARDET and is licensed under GNU GPL.
+The Arduino code was written by Samuel BERNARD-BERNARDET and is licensed under GNU GPL.
 
 Soccer ball (Truncated icosahedron) assembly by Mattias_Selin is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
 
