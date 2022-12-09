@@ -1,5 +1,6 @@
 
 /* Code by Samuel BERNARD-BERNARDET
+   www.dotwave.org
  * Licensed under Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
 
 You are free to:
