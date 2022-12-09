@@ -45,7 +45,7 @@ The third board contains only a connector to the LED strip.
 
 ## Printable frame
 
-It is a truncated icosahedron (More commonly called footbal) assembled like a 3D puzzle From 32 pieces : 
+It is a truncated icosahedron assembled like a 3D puzzle from 32 hollow pieces : 
 - 20 Hexagons
 - 12 Pentagons
 
