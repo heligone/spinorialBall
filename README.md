@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/16895004/206660205-fc275f0b-c983-40f3-
 ## License
 
 
-The Arduino code was written by Samuel BERNARD-BERNARDET and is licensed under GNU GPL.
+The Arduino code was written by Samuel BERNARD-BERNARDET and is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
 
 Soccer ball (Truncated icosahedron) assembly by Mattias_Selin is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
 
