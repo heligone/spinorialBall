@@ -39,6 +39,8 @@ Its is connected to the LED strip via and additional FeatherWing  proto board in
 
 ![electronics (Small)](https://user-images.githubusercontent.com/16895004/206514295-dd579211-e71b-4bf9-922e-89a014369af1.jpg)
 
+The third board contains only a connector to the LED strip.
+
 ![electronics assemble (Small)](https://user-images.githubusercontent.com/16895004/206514355-350c4eee-dbb4-4966-b806-77fcb258ef06.jpg)
 
 ## Printable frame
