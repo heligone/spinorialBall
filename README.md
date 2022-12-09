@@ -1,17 +1,17 @@
-# spinorialBall
+# The spinorial ball
 
-A device to visualize spin 1/2 rotations
+A device to visualize 1/2 spin rotations
 
 ![spinorialBall](https://user-images.githubusercontent.com/16895004/206495339-edc98185-f493-4057-80ba-8c59ff78b98a.jpg)
 
 ## Introduction
 
-The spinorial ball is LED gyro-Ball powered by an internal battery, whose faces change colors when it is rotated.
+The spinorial ball is LED gyro-Ball with an electronic gyroscope inside, powered by an internal battery, whose faces change colors when it is rotated.
 
 You need to turn it twice 360°, so 720°, around any axis so that the configuration gets back to itself.
 Turn it once and it becomes the "opposite" of itself (When you consider colors on chromatic wheel) !
 
-The Mathematical machinery is detailed in an ARXIV article "The spinorial ball : a device to visualize 1/2-spin rotations"
+The Mathematical machinery and physical explanation are detailed in an ARXIV article "The spinorial ball : a device to visualize 1/2-spin rotations"
 
 ## Details
 
@@ -52,6 +52,22 @@ From https://www.thingiverse.com/thing:2998199
 A hole is digged inside each of the 32 pieces to allow for LED placement.
 
 ![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206514382-efd9a7dd-20b6-4837-b7e5-bccffe0437c5.jpg)
+
+## Usage
+
+Plug the battery.
+
+The gyroscope will calibrate while LEDs are flashing red.
+
+Then the gyroscope will initialize its initial position while LEDs are flashing green.
+
+Then the initial state is displayed : red pentagons, hexagons off.
+
+This correspond to the |up> state.
+
+Let's play :)
+
+https://user-images.githubusercontent.com/16895004/206660205-fc275f0b-c983-40f3-bc5c-f4d4d745dbe4.mp4
 
 
 ## License
