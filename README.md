@@ -6,12 +6,12 @@ A device to visualize 1/2 spin rotations
 
 ## Introduction
 
-The spinorial ball is LED gyro-Ball with an electronic gyroscope inside, powered by an internal battery, whose faces change colors when it is rotated.
+The spinorial ball is LED football containing an electronic gyroscope inside, powered by an internal battery, whose faces change colors when it is rotated.
 
 You need to turn it twice 360°, so 720°, around any axis so that the configuration gets back to itself.
 Turn it once and it becomes the "opposite" of itself (When you consider colors on chromatic wheel) !
 
-The mathematical machinery and physical explanations are detailed in an ARXIV article "The spinorial ball : a device to visualize 1/2-spin rotations"
+The mathematical machinery and physical explanations are detailed in "The spinorial ball : a device to visualize 1/2-spin rotations".
 
 ## Details
 
