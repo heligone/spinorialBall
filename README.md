@@ -11,14 +11,14 @@ The spinorial ball is LED gyro-Ball with an electronic gyroscope inside, powered
 You need to turn it twice 360°, so 720°, around any axis so that the configuration gets back to itself.
 Turn it once and it becomes the "opposite" of itself (When you consider colors on chromatic wheel) !
 
-The Mathematical machinery and physical explanation are detailed in an ARXIV article "The spinorial ball : a device to visualize 1/2-spin rotations"
+The mathematical machinery and physical explanations are detailed in an ARXIV article "The spinorial ball : a device to visualize 1/2-spin rotations"
 
 ## Details
 
 It is made of :
 - a 3D printed frame divided in two halves of a truncated icosahedron
 - 32 adressable multicolor LEDs (WS2812E)
-- Adafruit Feather 32u4 basic proto controller (And an additionnal featherwing Proto board receiving the LED stirp connector)
+- Arduino compatible Adafruit Feather 32u4 basic proto controller (And an additionnal featherwing Proto board receiving the LED stirp connector)
 - Adafruit Bosch BNO055 9 DOF inertial measurment unit
 - a 3.7 V 1,1 Wh liPo Battery
 
