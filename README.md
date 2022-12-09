@@ -16,7 +16,7 @@ The Mathematical machinery and physical explanation are detailed in an ARXIV art
 ## Details
 
 It is made of :
-- a 3D printed frame divided in two halves of a truncated icoshedron
+- a 3D printed frame divided in two halves of a truncated icosahedron
 - 32 adressable multicolor LEDs (WS2812E)
 - Adafruit Feather 32u4 basic proto controller (And an additionnal featherwing Proto board receiving the LED stirp connector)
 - Adafruit Bosch BNO055 9 DOF inertial measurment unit
