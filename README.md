@@ -18,7 +18,7 @@ The mathematical machinery and physical explanations are detailed in an ARXIV ar
 It is made of :
 - a 3D printed frame divided in two halves of a truncated icosahedron
 - 32 adressable multicolor LEDs (WS2812E)
-- Arduino compatible Adafruit Feather 32u4 basic proto controller (And an additionnal featherwing Proto board receiving the LED stirp connector)
+- Arduino compatible Adafruit Feather 32u4 basic proto controller (And an additionnal featherwing Proto board receiving the LED strip connector)
 - Adafruit Bosch BNO055 9 DOF inertial measurment unit
 - a 3.7 V 1,1 Wh liPo Battery
 
