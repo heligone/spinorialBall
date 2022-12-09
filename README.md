@@ -47,7 +47,7 @@ It is a truncated icosahedron (More commonly called footbal) assembled like a 3D
 - 20 Hexagons
 - 12 Pentagons
 
-From https://www.thingiverse.com/thing:2998199
+The geometric 3D print STL files come from https://www.thingiverse.com/thing:2998199
 
 A hole is digged inside each of the 32 pieces to allow for LED placement.
 
