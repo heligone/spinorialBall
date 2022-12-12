@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/16895004/206660205-fc275f0b-c983-40f3-
 
 ## Online
 
-There is an online versin to play with, although it is not initialized in the |up> state : 
+There is an online version to play with, although it is not initialized in the |up> state : 
 
 https://dotwave.org/quBall3/
 
