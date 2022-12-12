@@ -78,10 +78,13 @@ There is an online versin to play with, although it is not initialized in the |u
 
 https://dotwave.org/quBall3/
 
+
 ## License
 
 
 The Arduino code was written by Samuel BERNARD-BERNARDET and is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
 
 Soccer ball (Truncated icosahedron) assembly by Mattias_Selin is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
+
+The online version is based on an app by David DUMAS  : https://www.dumas.io/luxball
 
