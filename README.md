@@ -72,6 +72,12 @@ Close the ball and ... let's play :)
 https://user-images.githubusercontent.com/16895004/206660205-fc275f0b-c983-40f3-bc5c-f4d4d745dbe4.mp4
 
 
+## Online
+
+There is an online versin to play with, although it is not initialized in the |up> state : 
+
+https://dotwave.org/quBall3/
+
 ## License
 
 
