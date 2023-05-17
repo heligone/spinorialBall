@@ -76,8 +76,11 @@ https://user-images.githubusercontent.com/16895004/206660205-fc275f0b-c983-40f3-
 
 There is an online version to play with, although it is not initialized in the |up> state : 
 
-https://dotwave.org/quBall3/
+https://dotwave.org/spinorialBall
 
+There is also a smartphone version : 
+
+https://dotwave.org/spinorialPhone
 
 ## License
 
