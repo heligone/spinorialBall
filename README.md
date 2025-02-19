@@ -82,6 +82,10 @@ There is also a smartphone version :
 
 https://dotwave.org/spinorialPhone
 
+And you can get yourself one ready made :
+
+https://www.spinorialball.com
+
 ## License
 
 
