@@ -17,9 +17,9 @@ The mathematical machinery and physical explanations are detailed in "The spinor
 
 It is made of :
 - a 3D printed frame divided in two halves of a truncated icosahedron
-- 32 adressable multicolor LEDs (WS2812E)
-- Arduino compatible Adafruit Feather 32u4 basic proto controller (And an additionnal featherwing Proto board receiving the LED strip connector)
-- Adafruit Bosch BNO055 9 DOF inertial measurment unit
+- 32 addressable multicolor LEDs (WS2812E)
+- Arduino compatible Adafruit Feather 32u4 basic proto controller (And an additional featherwing Proto board receiving the LED strip connector)
+- Adafruit Bosch BNO055 9 DOF inertial measurement unit
 - a 3.7 V 1,1 Wh liPo Battery
 
 ![openBall (Small)](https://user-images.githubusercontent.com/16895004/206501316-1a81fdc9-b1c8-4d71-a87c-10f33dc51906.jpg)
@@ -32,7 +32,7 @@ The controller board is connected to the gyroscope via its 4 pins :
 - SCA pin 3
 - SCL pin 2
 
-Its is connected to the LED strip via and additional FeatherWing  proto board interface card which holds only a connector for the led strip
+It is connected to the LED strip via an additional FeatherWing  proto board interface card which holds only a connector for the led strip
 - Power
 - Ground
 - Data pin 12
@@ -51,7 +51,7 @@ It is a truncated icosahedron assembled like a 3D puzzle from 32 hollow pieces :
 
 The geometric 3D print STL files come from https://www.thingiverse.com/thing:2998199
 
-A hole is digged inside each of the 32 pieces to allow for LED placement.
+A hole is dug inside each of the 32 pieces to allow for LED placement.
 
 ![truncatedIcosahedron (Small)](https://user-images.githubusercontent.com/16895004/206514382-efd9a7dd-20b6-4837-b7e5-bccffe0437c5.jpg)
 
